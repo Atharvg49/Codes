@@ -1,0 +1,9 @@
+.corner{
+    border-radius: 35px;
+    background: url(paper.gif);
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px;
+    width: 560px;
+    height: 315px;
+  }
